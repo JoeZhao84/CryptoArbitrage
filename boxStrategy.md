@@ -23,6 +23,7 @@ From the below chart of the market data, the short Box on call and put @19000 an
 
 All using taking:
 
+Sell BTC-25NOV22-19000-C and Buy BTC-25NOV22-20000-C 
 1590-1111=479
 
 1569-1112=457
