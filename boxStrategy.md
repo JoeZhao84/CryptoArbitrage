@@ -29,7 +29,7 @@ All using taking:
 
 (479+457-1000)/1000*1e4 = -6.4% 
 
-Bitcoin option, spot@19450, as of 2022-10-23 21:00:00
+Bitcoin option expiring on 25Nov, spot@19450, as of 2022-10-23 21:00:00
 
 ![Happy Christmas](deribit_options.PNG)
 
