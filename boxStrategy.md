@@ -1,7 +1,7 @@
 
 Option Box strategy can be constructed via Bull Call Spread + Bear Put Spread
 
-# Bull Call Spread:
+### Bull Call Spread:
 
 Buy 1 ITM Call and Sell 1 OTM Call (long Box)
 
@@ -9,7 +9,7 @@ or
 
 Sell 1 ITM Call and Buy 1 OTM Call (short Box)
 
-# Bear Put Spread: 
+### Bear Put Spread: 
 
 Buy 1 ITM Put and Sell 1 OTM Put (long Box)
 
