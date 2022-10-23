@@ -19,7 +19,7 @@ Sell 1 ITM Put and Buy 1 OTM Put (short Box)
 
 ##
 
-From the below chart of the market data, the short Box is undervalued and arbitrage can be conducted.
+From the below chart of the market data, the short Box on call and put @19000 and @20000 is undervalued and arbitrage can be conducted.
 
 All using taking:
 
