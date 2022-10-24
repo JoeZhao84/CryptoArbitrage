@@ -6,12 +6,12 @@ The below snapshot of market data is an example:
 
 Deribit:
 ETH-25NOV22-1350-C Bid vs Ask: 111.71 vs 114.44
-
 Bybit:
 ETH-25NOV22-1350-C Bid vs Ask: 113 vs 114.5
 \
 ETH spot@1362, as of 2022-10-23 23:30:00
 \
+
 Given the wide spread on Deribit, we could post a passive Buy on Deribit @111.71, once it's filled, we immediately sell on Bybit using market order.
 
 Theoretically, the profit is (113 - 111.71) / 111.71 - fees = 115bps - 1bps = 114bps
