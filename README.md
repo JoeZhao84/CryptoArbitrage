@@ -9,3 +9,4 @@ https://github.com/JoeZhao84/CryptoArbitrage/blob/main/crossEx.md
 
 ## 3 Short term alpha(WIP)
 
+https://github.com/JoeZhao84/CryptoArbitrage/blob/main/shortTermSignal.md
