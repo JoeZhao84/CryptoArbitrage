@@ -1,4 +1,4 @@
-
+## A market neutral arbitrage on options' spread
 
 We observed options on Deribit Exchange have wider spread than other exchanges e.g., Bybit Exchange. 
 
