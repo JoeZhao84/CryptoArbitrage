@@ -24,8 +24,13 @@ The theoretical profit is (114.5 - 114.44) / 114.44 - fees = 5bps - 1bps = 4bps
 
 Ideally we don't have to hedge it back right away. We can always wait until the ask side price in our favour, but even in this example, it does not cost us to clear our position on both exchanges. And we maintain market neutral during the whole process.
 
+### Deribit ETH-25NOV22-1350-C
 
-![Happy Christmas](deribit_options.PNG)
+![Happy Christmas](deribit_ETH3.PNG)
+
+### ByBit ETH-25NOV22-1350-C
+
+![Happy Christmas](ByBit_ETH3.PNG)
 
 
 ## Execution:
