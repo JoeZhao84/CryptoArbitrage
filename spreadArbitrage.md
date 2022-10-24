@@ -1,9 +1,8 @@
 
+
 We observed options on Deribit Exchange have wider spread than other exchanges e.g., Bybit Exchange. 
 
-##
-
-From the below chart of the market data, the short Box on call and put @19000 and @20000 is undervalued and arbitrage can be conducted.
+The below snapshot of market data is an example:
 
 Deribit:
 
