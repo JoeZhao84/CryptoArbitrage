@@ -1,4 +1,4 @@
-# CryptoArbitrage
+# CryptoStrategy
  
 ## 1 Option Spread arbitrage
 https://github.com/JoeZhao84/CryptoArbitrage/blob/main/spreadArbitrage.md
