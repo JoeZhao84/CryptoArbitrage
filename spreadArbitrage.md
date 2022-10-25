@@ -37,4 +37,4 @@ In a nutshell, we want to capture the spread of 240bps on Deribit and hedge that
 ## Execution & Caveat:
 The execution of such arbitrage strategy is another topic. It include 2 pairs of making-taking executions. It's very positive that market moves when our maker got a fill, which deteriorates our profit or even incur loss. We call it execution slippage. Market condition, speed, exchange microstructure all contributes to such slippage. We will need to conduct research on large sample of market data and our own execution to optimize it. 
 
-The caveat is there may not be too much liquidity on the option market, especially on Deribits, so that's why the spread is wide. This is affecting the scale of the profit. Also this strategy involves short sell options. The margin requirement could be high. 
+The caveat is, there may not be too much liquidity on the option market all the time, especially on Deribits, so maybe that's why the spread is wide. This is affecting the scale of the profit. The margin requirement could be high for option trading, especially short selling. 
