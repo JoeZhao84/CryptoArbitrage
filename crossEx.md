@@ -24,4 +24,4 @@ In a nutshell, this strategy exploits the price difference between 2 exchanges. 
 We are market neutral during the whole process.
 
 ## Execution
-The execution of such strategy includes 2 pairs of making-taking executions. It's very positive that market moves when our maker got a fill, which deteriorates our profit or even incur loss. Empirically we observed slippage of 5bps, which can still be improved with quantitative method, e.g., signals.
+The execution of such strategy includes 2 pairs of making-taking executions. It's very possible that market moves when our maker got a fill, which deteriorates our profit or even incur loss. Empirically we observed slippage of 5bps, which can still be improved with quantitative method, e.g., signals.
