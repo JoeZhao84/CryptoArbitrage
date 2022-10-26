@@ -14,4 +14,4 @@ Blue: predicted price rise
 
 ### Usage and Caveat
 
-Although this signal has good prediction power in the price direction, it does not perform well enough to be profitable(in the 10 days dataset we have). A much longer dataset is required to test the profitability and risk control. Given taking is usually required to capture such short term and it can easily cost > 5bps, this also becomes a hurdle. However, such signal might be useful in combination with the previous 2 strategies to minimize the executioin slippage. 
+Although this signal has good prediction power in the price direction, it does not perform well enough to be profitable on itself(in the 10 days dataset we have). A much longer dataset is required to test the profitability and risk control. Given taking is usually required to capture such short term and it can easily cost > 5bps, this also becomes a hurdle. However, such signal might be useful in combination with the previous 2 strategies to minimize the executioin slippage. 
