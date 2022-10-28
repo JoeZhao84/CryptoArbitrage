@@ -2,7 +2,7 @@
 
 We often find that the price of similar/same contract on different exchanges are not in sync. Such out of sync can be quite persistent.
 
-Below Pic 1 is an example of such out of sync between 2 exchanges, both are ETH-PERP. 
+Below Pic 1 is an example of such out of sync between 2 exchanges. 
 
 Such price out fo sync are varying over the time. Pic 2 shows such price difference over a period of 10 days.
 
