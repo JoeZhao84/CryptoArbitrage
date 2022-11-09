@@ -23,7 +23,7 @@ The theoretical profit is (114.5 - 114.44) / 114.44 - fees = 5bps - 1bps = 4bps
 
 Ideally we don't have to hedge it back right away. We can always wait until the ask side price in our favour, but even in this example, it does not cost us to clear our position on both exchanges. And we maintain market neutral during the whole process.
 
-In a nutshell, we want to capture the spread of 240bps on Deribit and hedge that by trading on Bybit, paying 130bps. 
+In a nutshell, we want to capture the spread of 240bps on Deribit, and if hedge it back right away by trading on Bybit, the profit can still be 120bps roughly. 
 
 ### Deribit ETH-25NOV22-1350-C
 
