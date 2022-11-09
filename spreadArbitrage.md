@@ -17,7 +17,7 @@ Given the wide spread on Deribit, we could post a passive Buy on Deribit @111.71
 
 Theoretically, the profit is (113 - 111.71) / 111.71 - fees = 115bps - 1bps = 114bps
 
-Likewise, also to manamge the position both on the 2 exchanges, similar arbitrage can be conducted on the bid side. 
+Likewise, also to manage the position both on the 2 exchanges, similar arbitrage can be conducted on the ask side. 
 
 The theoretical profit is (114.5 - 114.44) / 114.44 - fees = 5bps - 1bps = 4bps
 
